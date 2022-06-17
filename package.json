@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexandreBourdeaudhui/Katas/issues"
   },
-  "homepage": "https://github.com/AlexandreBourdeaudhui/Katas#readme"
+  "homepage": "https://github.com/AlexandreBourdeaudhui/Katas#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
