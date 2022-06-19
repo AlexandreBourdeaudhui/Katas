@@ -19,14 +19,3 @@ export const fizzBuzz = (input: number): string | number => {
 
   return input;
 }
-
-/**
- * Let's play!
- */
-const letsPlay = () => {
-  for (let index = 1; index <= 100; index++) {
-    console.log(fizzBuzz(index));
-  }
-};
-
-letsPlay();
